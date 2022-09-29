@@ -1,3 +1,5 @@
+# :lock: This is part of the core Pulsar repos and is now archived for that reason.
+
 > :warning: Note: This package is now a part of the [core Atom repository](https://github.com/atom/atom/tree/master/static/atom-ui), please direct all issues and pull requests there in the future!
 
 # :sparkles: Atom UI :sparkles:
